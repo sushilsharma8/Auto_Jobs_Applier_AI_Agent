@@ -1,126 +1,108 @@
 personal_information:
-  name: "solid"
-  surname: "snake"
-  date_of_birth: "12/01/1861"
-  country: "Ireland"
-  city: "Dublin"
-  zip_code: "520123"
-  address: "12 Fox road"
-  phone_prefix: "+1"
-  phone: "7819117091"
-  email: "hi@gmail.com"
-  github: "https://github.com/lol"
-  linkedin: "https://www.linkedin.com/in/thezucc/"
-  
+  name: "Sushil Sharma"
+  email: "sushilsharma8oct2001@gmail.com"
+  phone: "+91 9070600540"
+  linkedin: "http://linkedin.com/in/itzsushilsharma"
+  github: "http://github.com/sushilsharma8"
+
+  location:
+    city: "Bangalore"
+    country: "India"
+    zip_code: "560102"
 
 education_details:
-  - education_level: "Master's Degree"
-    institution: "Bob academy"
-    field_of_study: "Bobs Engineering"
-    final_evaluation_grade: "4.0"
-    year_of_completion: "2023"
-    start_date: "2022"
-    additional_info:
-      exam:
-        Algorithms: "A"
-        Linear Algebra: "A"
-        Database Systems: "A"
-        Operating Systems: "A-"
-        Web Development: "A"
+  - education_level: "Bachelor of Engineering"
+    institution: "BMS Institute of Technology and Management"
+    field_of_study: "Artificial Intelligence and Machine Learning"
+    start_date: "12/2020"
+    year_of_completion: 2024
 
 experience_details:
-  - position: "X"
-    company: "Y."
-    employment_period: "06/2019 - Present"
-    location: "San Francisco, CA"
+  - position: "Python Developer Intern"
+    company: "Bookee"
+    employment_period: "02/2024 - Present"
+    location: "Bangalore, India"
     industry: "Technology"
     key_responsibilities:
-      - responsibility: "Developed web applications using React and Node.js"
-      - responsibility: "Collaborated with cross-functional teams to design and implement new features"
-      - responsibility: "Troubleshot and resolved complex software issues"
-    skills_acquired:
-      - "React"
-      - "Node.js"
-      - "Software Troubleshooting"
-  - position: "Software Developer"
-    company: "Innovatech"
-    employment_period: "06/2015 - 12/2017"
-    location: "Milan, Italy"
-    industry: "Technology"
-    key_responsibilities:
-      - responsibility: "Developed and maintained web applications using modern technologies"
-      - responsibility: "Collaborated with UX/UI designers to enhance user experience"
-      - responsibility: "Implemented automated testing procedures to ensure code quality"
-    skills_acquired:
-      - "Web development"
-      - "User experience design"
-      - "Automated testing"
-  - position: "Junior Developer"
-    company: "StartUp Hub"
-    employment_period: "01/2014 - 05/2015"
-    location: "Florence, Italy"
-    industry: "Startups"
-    key_responsibilities:
-      - responsibility: "Assisted in the development of mobile applications and web platforms"
-      - responsibility: "Participated in code reviews and contributed to software design discussions"
-      - responsibility: "Resolved bugs and implemented feature enhancements"
-    skills_acquired:
-      - "Mobile app development"
-      - "Code reviews"
-      - "Bug fixing"
+      - "Collaborated with teams to understand project requirements and build solutions using Python and Django."
+      - "Developed and maintained Python scripts and Django applications to improve backend processes."
+      - "Fixed bugs, tested code, and ensured smooth functionality."
+      - "Wrote clear documentation and assisted in code reviews to keep the project organized."
+
 projects:
-  - name: "X"
-    description: "Y blah blah blah "
-    link: "https://github.com/haveagoodday"
+  - name: "Valorant Victory Predictor Using Flask and Selenium"
+    duration: "03/2024 - Present"
+    description:
+      - "Developed a web application to fetch and analyze Valorant player stats using Flask, Selenium, and BeautifulSoup."
+      - "Implemented concurrent data fetching for performance improvement."
+      - "Used Chart.js for user-friendly data visualization."
+  - name: "AI Desktop Voice Assistant"
+    duration: "05/2022 - Present"
+    description:
+      - "Built an AI voice assistant capable of performing web searches and answering queries."
+      - "Utilized Python libraries including Wikipedia, OpenAI, Speech Recognition for seamless interaction."
+  - name: "Potato Disease Classification using CNN"
+    duration: "09/2023 - 12/2023"
+    description:
+      - "Developed a CNN model to classify diseases in potato plants using image recognition."
+      - "Contributed to early detection in agriculture."
 
-
-
-achievements:
-  - name: "Employee of the Month"
-    description: "Recognized for exceptional performance and contributions to the team."
-  - name: "Hackathon Winner"
-    description: "Won first place in a national hackathon competition."
-
-certifications:
-  - name: "Certified Scrum Master"
-    description: "Recognized certification for proficiency in Agile methodologies and Scrum framework."
-  - name: "AWS Certified Solutions Architect"
-    description: "Certification demonstrating expertise in designing, deploying, and managing applications on AWS."
+skills:
+  programming_languages:
+    - "Python"
+    - "Java"
+    - "SQL"
+  python_libraries:
+    - "NumPy"
+    - "Pandas"
+    - "Plotly"
+    - "Scikit-learn"
+    - "BeautifulSoup"
+  web_development:
+    - "Django"
+    - "Flask"
+    - "Selenium"
+  tools_and_IDEs:
+    - "VS Code"
+    - "PyCharm"
+    - "Jupyter Notebook"
+  version_control:
+    - "Git"
+    - "GitHub"
 
 languages:
   - language: "English"
     proficiency: "Fluent"
-  - language: "Spanish"
-    proficiency: "Intermediate"
+  - language: "Hindi"
+    proficiency: "Fluent"
 
 interests:
   - "Machine Learning"
-  - "Cybersecurity"
+  - "Web Development"
   - "Open Source Projects"
-  - "Digital Marketing"
-  - "Entrepreneurship"
+  - "Data Analysis"
 
 availability:
   notice_period: "2 weeks"
 
 salary_expectations:
-  salary_range_usd: "90000 - 110000"
+  salary_range_usd: "80000 - 100000"
 
 self_identification:
-  gender: "Female"
-  pronouns: "She/Her"
+  gender: "Male"
+  pronouns: "He/Him"
   veteran: "No"
   disability: "No"
   ethnicity: "Asian"
 
 legal_authorization:
   eu_work_authorization: "Yes"
-  us_work_authorization: "Yes"
+  us_work_authorization: "No"
   requires_us_visa: "No"
-  requires_us_sponsorship: "Yes"
+  legally_allowed_to_work_in_us: "No"
+  requires_us_sponsorship: "No"
   requires_eu_visa: "No"
   legally_allowed_to_work_in_eu: "Yes"
-  legally_allowed_to_work_in_us: "Yes"
   requires_eu_sponsorship: "No"
   canada_work_authorization: "Yes"
   requires_canada_visa: "No"
@@ -130,7 +112,6 @@ legal_authorization:
   requires_uk_visa: "No"
   legally_allowed_to_work_in_uk: "Yes"
   requires_uk_sponsorship: "No"
-
 
 work_preferences:
   remote_work: "Yes"

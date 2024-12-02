@@ -1,12 +1,12 @@
-remote: true
+remote: false
 hybrid: true
 onsite: true
 
 experience_level:
-  internship: false
+  internship: true
   entry: true
   associate: true
-  mid_senior_level: true
+  mid_senior_level: false
   director: false
   executive: false
 
@@ -15,9 +15,9 @@ job_types:
   contract: false
   part_time: false
   temporary: true
-  internship: false
+  internship: true
   other: false
-  volunteer: true
+  volunteer: false
 
 date:
   all_time: false
@@ -26,10 +26,14 @@ date:
   24_hours: true
 
 positions:
-  - Software engineer
+  # - Software engineer
+  # - Data analyst
+  - Django Developer
+  - Python Developer
+  - Backend Developer
 
 locations:
-  - Germany
+  - India
 
 apply_once_at_company: true
 
@@ -40,8 +44,13 @@ company_blacklist:
   - Crossover
 
 title_blacklist:
-  - word1
-  - word2
+  - Sales
+  - Marketing
 
-location_blacklist:
-  - Brazil
+job_applicants_threshold:
+  min_applicants: 0
+  max_applicants: 100
+
+llm_model_type: gemini
+llm_model: 'gemini-pro'
+# llm_api_url: https://api.pawan.krd/cosmosrp/v1'

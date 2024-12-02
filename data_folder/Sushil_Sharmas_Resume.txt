@@ -1,0 +1,50 @@
+
+Sushil Sharma
+Bangalore, India
+Email: sushilsharma8oct2001@gmail.com | GitHub: http://github.com/sushilsharma8 | Medium: http://medium.com/@sushilsharma8oct2001
+Phone: +91 9070600540
+
+Education
+Bachelor's Degree in Artificial Intelligence and Machine Learning
+BMS Institute of Technology and Management, Bengaluru
+Graduation Year: 2024
+
+Experience
+Django Developer Intern
+Kenko AI (previously Bookee) (06/2024 - Present)
+Location: Bangalore, India | Industry: Technology
+
+- Added features for automation workflows and campaign services, including sending analytics emails to customers whenever campaigns or workflows go live.
+- Implemented real-time messaging functionality through WebSocket integration for two-way SMS inbox, enhancing customer communication experience.
+- Architected an email delivery system using SendGrid webhooks and Celery task queues, handling bounces and improving synchronization between Django and Laravel services.
+- Optimized email deliverability by automatically disabling communication preferences for 30,000+ invalid email addresses, reducing failed delivery attempts by 85% and saving $1,000+ annually.
+- Built Django signals and receivers for event handling, enhancing modularity and responsiveness.
+
+Projects
+Valorant Victory Predictor Using Flask and Selenium
+Developed a web application to fetch and analyze Valorant player stats using Flask, Selenium, and BeautifulSoup. Implemented concurrent data fetching for multiple players using ThreadPoolExecutor to improve performance. Utilized Chart.js for data visualization.
+
+AI Desktop Voice Assistant
+Built an AI voice assistant capable of performing web searches, answering questions, and providing real-time information using Python libraries such as Wikipedia, OpenAI, and Speech Recognition.
+
+Potato Disease Classification using CNN
+Developed a Convolutional Neural Network model to classify diseases in potato plants for early detection in agriculture.
+Utilized a dataset of 3,000+ images to achieve high accuracy in disease detection, aiding early mitigation efforts.
+
+
+Skills
+- Programming Languages: Python, Java, SQL
+- Python Libraries: NumPy, Pandas, Plotly, BeautifulSoup
+- Web Development: Django, Flask, Selenium
+- Tools: VS Code, PyCharm, Jupyter Notebook
+- APIs and Tools: REST APIs, Twilio, SendGrid
+- Version Control: Git, GitHub
+- Other Tools: Git, Celery, WebSocket
+
+Languages
+English: Fluent
+Hindi: Fluent
+
+Interests
+Machine Learning, Full-Stack Development, Data Analysis, Artificial Intelligence
+
